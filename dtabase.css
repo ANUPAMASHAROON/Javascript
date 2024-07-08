@@ -1,0 +1,49 @@
+
+.bg{
+    width:100%;
+    height:100%;
+    background-image: linear-gradient(to top left,#990011, #FCF6F5);
+}.add{
+    border:4px solid black;
+    font-size: 40px;
+    border-radius: 15px;
+    padding:10px 20px;
+    position:relative;
+    left:550px;
+    top:10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+table{
+    border: solid 3px black;
+    width:100%;
+    margin-top: 5%;
+    background-color: green;
+ }
+  
+table td{
+    border: solid 3px black;
+    padding:10px;
+    color:#FEE715;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    background-color: #101820;
+    
+}
+table th{
+    border: solid 3px black;
+    padding:10px;
+    color:red;
+    font-size:25px;
+    font-weight: 900;
+    background-color:  #101820;
+}
+button{
+    border: solid 3px black;
+    font-size: 30px;
+    background-image: linear-gradient(to top left,#00246B, #CADCFC);
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
